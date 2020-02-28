@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="todak_settings_title">Todak</string>
+    <string name="bosskur_settings_title">Bosskur</string>
     <string name="crdroid_settings_summary">Customize Everyting Here</string>
     <string name="crdroid_personalization_category">Personalization</string>
     <string name="crdroid_addons_category">Addons</string>
@@ -487,7 +487,7 @@
     <string name="status_bar_crdroid_logo_style">Logo style</string>
     <string name="status_bar_logo_position_right">Right</string>
     <string name="status_bar_logo_position_left">Left</string>
-    <string name="status_bar_logo_style_todak">TodakROM</string>
+    <string name="status_bar_logo_style_bosskur">BosskurROM</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1093,16 +1093,16 @@
     <string name="changelog_crdroid_summary">View changes in the ROM installed</string>
     <string name="changelog_crdroid_error">Unable to load changelog</string>
 
-    <!-- About TodakROM -->
-    <string name="about_todak">About TodakROM</string>
+    <!-- About BosskurROM -->
+    <string name="about_bosskur">About BosskurROM</string>
 
-    <!-- Share TodakROM -->
-    <string name="share_todak_title">Share TodakROM</string>
-    <string name="share_todak_summary">Let others know about TodakROM</string>
-    <string name="share_todak_message">Check out what #TodakROM is / https://todak.com/</string>
-    <string name="share_todak_chooser_title">Share TodakROM</string>
+    <!-- Share BosskurROM -->
+    <string name="share_bosskur_title">Share BosskurROM</string>
+    <string name="share_bosskur_summary">Let others know about BosskurROM</string>
+    <string name="share_bosskur_message">Check out what #BosskurROM is / https://bosskur.com/</string>
+    <string name="share_bosskur_chooser_title">Share BosskurROM</string>
 
-    <!-- Sites TodakROM -->
+    <!-- Sites BosskurROM -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">We love open source, check us out</string>
     <string name="crdroid_website_title">Official website</string>
@@ -1121,10 +1121,10 @@
     <string name="maintainers_crdroid_summary">List of supported devices and their official maintainers</string>
     <string name="maintainers_crdroid_error">Unable to load devices and maintainers list</string>
 
-    <!-- Donate TodakROM -->
+    <!-- Donate BosskurROM -->
     <string name="donate_crdroid_title">Support us</string>
     <string name="donate_crdroid_summary">Donate to support development and our server</string>
-    <string name="donate_todak_team_title">TodakROM team</string>
+    <string name="donate_bosskur_team_title">BosskurROM team</string>
     <string name="donate_team_summary">Donate to support build system and development</string>
 <!--
     <string name="donate_dev_title" translatable="false">hota (lindwurm)</string>
@@ -1723,7 +1723,7 @@
 
     <!-- Reset settings -->
     <string name="reset_settings_title">Reset settings</string>
-    <string name="reset_settings_message">This will reset most TodakROM settings to their default values for the current user. Would you like to continue?</string>
+    <string name="reset_settings_message">This will reset most BosskurROM settings to their default values for the current user. Would you like to continue?</string>
 
     <!-- OTA -->
     <string name="ota_crdroid_title">Updates</string>
